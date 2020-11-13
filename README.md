@@ -16,7 +16,7 @@ In the end returning a randomly generated password that the user can use.
 ## Usage Instructions
 Click on the "Generate Password" button and be guided through prompts and confirms to your needs, and it will generate a random password for you.
 
-![Image of the site](./assets/home.png)
+![Image of the site](./Assets/home.png)
 
 ## Installion Instructions
 N/A
